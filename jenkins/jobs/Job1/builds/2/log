@@ -1,0 +1,22 @@
+Started by user [8mha:////4PDyjUcZG+wC0Z9iWSwHxOn6rPzxh3m2kG0Fn4pMC2bCAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy2EgYe/dLi1CL94vzSouRUAM0V9c/BAAAA[0msource
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/Job1
+[Job1] $ /bin/sh -xe /tmp/jenkins18119912541962086439.sh
++ vim /var/lib/jenkins/users/users.xml
+Vim: Warning: Output is not to a terminal
+Vim: Warning: Input is not from a terminal
+[m[m[0m[H[2J[24;1H"~/users/users.xml" [noeol] 10L, 302B[1;1H[34m<?[0m[32mxml version[0m=[31m'1.1'[0m[32m encoding[0m=[31m'UTF-8'[0m[34m?>[0m
+[36m<hudson[0m[34m.[0m[36mmodel[0m[34m.[0m[36mUserIdMapper>
+[0m  [36m<version>[0m1[36m</version>
+[0m  [36m<idToDirectoryNameMap [0m[32mclass[0m=[31m"concurrent-hash-map"[0m[36m>
+[0m    [36m<entry>[6;7H<string>[0msource[36m</string>[7;7H<string>[0msource_8481385707214255558[36m</string>
+[0m    [36m</entry>
+[0m  [36m</idToDirectoryNameMap>
+</hudson[0m[34m.[0m[36mmodel[0m[34m.[0m[36mUserIdMapper>[0m
+[1m[34m~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [0m[24;63H1,1[11CAll[1;1H[24;1HVim: Caught deadly signal TERM
+
+Vim: Finished.
+[24;1HTerminated
+Build was aborted
+Aborted by [8mha:////4PDyjUcZG+wC0Z9iWSwHxOn6rPzxh3m2kG0Fn4pMC2bCAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy2EgYe/dLi1CL94vzSouRUAM0V9c/BAAAA[0msource
+Finished: ABORTED

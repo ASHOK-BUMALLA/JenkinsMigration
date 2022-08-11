@@ -1,0 +1,9 @@
+Started by user [8mha:////4PDyjUcZG+wC0Z9iWSwHxOn6rPzxh3m2kG0Fn4pMC2bCAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy2EgYe/dLi1CL94vzSouRUAM0V9c/BAAAA[0msource
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/job2
+[job2] $ /bin/sh -xe /tmp/jenkins2903451389963263791.sh
++ ls -la
+total 8
+drwxr-xr-x 2 jenkins jenkins 4096 Aug 11 09:46 .
+drwxr-xr-x 4 jenkins jenkins 4096 Aug 11 09:46 ..
+Finished: SUCCESS
